@@ -1,5 +1,7 @@
 # chart-bar-plotly
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A custom HTML element for creating bar charts using Plotly.js.
 
 ## Demo
