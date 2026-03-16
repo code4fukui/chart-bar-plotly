@@ -57,4 +57,4 @@ const chart = new ChartBar(data, {
 This project can use data from various sources, including CSV files hosted online.
 
 ## License
-This project is licensed under the MIT License.
+MIT License — see [LICENSE](LICENSE).
